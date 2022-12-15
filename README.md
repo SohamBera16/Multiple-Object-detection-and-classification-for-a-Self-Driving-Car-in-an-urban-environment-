@@ -28,6 +28,8 @@ experiment1 - create a new folder for each experiment you run
 label_map.pbtxt
 
 - ## Dataset:
+After generating the bounding boxes around the objects of interest, some of the images from the ground truth data is displayed for visual inspection as follows -
+
 ![charts/display image 1.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%201.png)
 
 ![charts/display image 2.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%202.png)
@@ -37,7 +39,7 @@ label_map.pbtxt
 ![charts/display image 4.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%204.png)
 
 - ### Dataset Analysis: 
-This section should contain a quantitative and qualitative description of the dataset. It should include images, charts, and other visualizations.
+The exploratory data analysis has been done on 7000 train as well as validation images to understand the distribution of objects belonging to different classes. The results obtained showed that there is a high imbalance among the classes of interest i.e.  
 
 - ## Training:
 
