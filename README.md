@@ -6,6 +6,10 @@ The goal of this project is to create a convolutional neural network based model
 - ## Set up: 
 For the setup of the project, I used the project workspace provided by Udacity with the necessary data and libraries already available. 
 
+For local setup, please install the necessary packages by running the command from the terminal -
+
+$ pip install -r requirements.txt
+
 1. The data to be used for the training was available in the project workspace but due to resource limitations of GitHub, I decided not to keep them in the current repository. Hence, an alternate method to create the necessary datasets is mentioned below -
 
 The data for training, validation and testing can be organized as follow:
