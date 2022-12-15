@@ -91,7 +91,7 @@ For the reference experiment using the baseline model, the default configuration
 ![class distribution in val images](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/train%20baseline%204.png)
 
 - ## Improve on the reference: 
-Different strategies that have been adopted to improve your model performance include several data augmentation techniques and changes in the learning rate, namely, 
+Different strategies that have been adopted to improve your model performance include several data augmentation techniques according to the Tf Object Detection API code documentation and changes in the learning rate, namely, 
 
 1. random_rgb_to_grayscale conversion with probability 0.2
 2. random distort color 
