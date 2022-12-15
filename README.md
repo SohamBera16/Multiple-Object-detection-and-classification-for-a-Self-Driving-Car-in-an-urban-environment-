@@ -30,9 +30,11 @@ label_map.pbtxt
 - ## Dataset:
 ![charts/display image 1.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%201.png)
 
-![](charts/display image 2.png) |
-:-------------------------:|:-------------------------:
-| ![](charts/display image 3.png)  |  ![](charts/display image 4.png) |
+![charts/display image 2.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%202.png)
+
+![charts/display image 3.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%203.png)
+
+![charts/display image 4.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%204.png)
 
 - ### Dataset Analysis: 
 This section should contain a quantitative and qualitative description of the dataset. It should include images, charts, and other visualizations.
