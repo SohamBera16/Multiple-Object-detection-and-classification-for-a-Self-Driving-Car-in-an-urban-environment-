@@ -39,7 +39,11 @@ After generating the bounding boxes around the objects of interest, some of the 
 ![charts/display image 4.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%204.png)
 
 - ### Dataset Analysis: 
-The exploratory data analysis has been done on 7000 train as well as validation images to understand the distribution of objects belonging to different classes. The results obtained showed that there is a high imbalance among the classes of interest i.e.  
+The exploratory data analysis has been done on 7000 train as well as validation images to understand the distribution of objects belonging to different classes. The results obtained showed that there is a high imbalance among the classes of interest i.e. vehicle is the most overrepresented object class in the dataset whereas cyclists being the least represented. Pedestrians fall on a range between these two classes. The visualizated form of the results can be seen below - 
+
+![class distribution in training image](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/training%20class%20distribution.png)
+
+![class distribution in val images](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/validation%20class%20distribution.png)
 
 - ## Training:
 
