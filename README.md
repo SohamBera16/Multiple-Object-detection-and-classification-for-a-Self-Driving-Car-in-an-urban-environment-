@@ -56,7 +56,7 @@ cd 'LOCATION WHERE THE edit_config.py IS LOCATED'
 
 python edit_config.py --train_dir /home/workspace/data/train/ --eval_dir /home/workspace/data/val/ --batch_size 2 --checkpoint /home/workspace/experiments/pretrained_model/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/checkpoint/ckpt-0 --label_map /home/workspace/experiments/label_map.pbtxt
 
--Training Process:
+- Training Process:
 The training process of the model can be run by - 
 
 python experiments/model_main_tf2.py --model_dir=experiments/reference/ --pipeline_config_path=experiments/reference/pipeline_new.config
@@ -65,7 +65,7 @@ To monitor the training, a tensorboard instance can be launched by running -
 
 python -m tensorboard.main --logdir experiments/reference/ (location needs to be accordingly modified as per requirement)
 
--Evaluation Process:
+- Evaluation Process:
 Once the training is finished, launch the evaluation process.
 
 
