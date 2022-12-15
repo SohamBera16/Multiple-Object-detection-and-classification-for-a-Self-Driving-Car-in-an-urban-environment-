@@ -13,7 +13,7 @@ The data for training, validation and testing can be organized as follow:
 train: contain the train data
 val: contain the val data
 test - contains test files to test your model and create inference videos
-The Waymo dataset downloaded from the internet needs to be split into train, val, and test sets by completing and executing the create_splits.py file or by manual execution.
+The Waymo dataset downloaded from the internet needs to be split into train, val, and test sets by completing and executing the create_splits.py file (after modifying the function for implementing the split accordingly) or by manual splitting.
 
 - ## Dataset:
 
