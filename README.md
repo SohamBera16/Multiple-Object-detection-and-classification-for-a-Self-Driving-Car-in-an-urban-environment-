@@ -15,7 +15,22 @@ val: contain the val data
 test - contains test files to test your model and create inference videos
 The Waymo dataset downloaded from the internet needs to be split into train, val, and test sets by completing and executing the create_splits.py file (after modifying the function for implementing the split accordingly) or by manual splitting.
 
+
+2. Experiments
+The /home/workspace/experiments folder needs to be created and should be organized as follow:
+
+pretrained_model
+reference - reference training with the unchanged config file
+exporter_main_v2.py - to create an inference model
+model_main_tf2.py - to launch training
+experiment0 - create a new folder for each experiment you run
+experiment1 - create a new folder for each experiment you run
+label_map.pbtxt
+
 - ## Dataset:
+| ![](charts/display image 1.png)  |  ![](charts/display image 2.png) |
+:-------------------------:|:-------------------------:
+| ![](charts/display image 3.png)  |  ![](charts/display image 4.png) |
 
 - ### Dataset Analysis: 
 This section should contain a quantitative and qualitative description of the dataset. It should include images, charts, and other visualizations.
