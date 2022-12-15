@@ -28,7 +28,9 @@ experiment1 - create a new folder for each experiment you run
 label_map.pbtxt
 
 - ## Dataset:
-| ![]([charts/display image 1.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%201.png))  |  ![](charts/display image 2.png) |
+![charts/display image 1.png](https://github.com/SohamBera16/Multiple-Object-detection-and-classification-for-a-Self-Driving-Car-in-an-urban-environment-/blob/main/charts/display%20image%201.png)
+
+![](charts/display image 2.png) |
 :-------------------------:|:-------------------------:
 | ![](charts/display image 3.png)  |  ![](charts/display image 4.png) |
 
